@@ -1,0 +1,23 @@
+{
+  "ids": {
+    "Todo": 8,
+    "TodoList": 3,
+    "Todolist": 3
+  },
+  "models": {
+    "Todo": {
+     
+      "5": "{\"title\":\"string\",\"desc\":\"string\",\"isComplete\":true,\"todolistId\":2,\"id\":5}",
+      "6": "{\"title\":\"string\",\"desc\":\"string\",\"isComplete\":true,\"todolistId\":2,\"id\":6}",
+      "7": "{\"title\":\"string\",\"desc\":\"string\",\"isComplete\":true,\"todolistId\":1,\"id\":7}"
+    },
+    "TodoList": {
+      "1": "{\"title\":\"Sith lord's check list\",\"color\":\"blue\",\"id\":1}",
+      "2": "{\"title\":\"My daily chores\",\"color\":\"red\",\"id\":2}"
+    },
+    "Todolist": {
+      "1": "{\"title\":\"grocery list\",\"id\":1}",
+      "2": "{\"title\":\"string\",\"color\":\"string\",\"id\":2}"
+    }
+  }
+}

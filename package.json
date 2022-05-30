@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@loopback/authentication": "^9.0.0",
+    "@loopback/authentication-jwt": "^0.12.0"
+  }
+}
